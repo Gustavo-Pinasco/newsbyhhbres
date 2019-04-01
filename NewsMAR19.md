@@ -6,6 +6,8 @@ http://jornaldiadia.com.br/2016/?p=555574 | Hospital Alemão Oswaldo Cruz e FIAP
 
 ## Impactos importantes
 
+http://smart-cities.pt/saude/misericordia2903porto-glintt/ | Santa Casa da Misericórdia do Porto vai usar software de reconhecimento de voz nos registos clínicos | Smart Cities
+
 https://ocp.news/geral/prefeitura-de-joinville-investe-em-tecnologia-e-integra-agendamento-de-exames-laboratoriais | Prefeitura de Joinville investe em tecnologia e integra agendamento de exames laboratoriais
 
 https://www.path.org/articles/digital-transforming-africa-health/ | Q&A: How digital and data are transforming health in Africa | PATH
@@ -30,14 +32,6 @@ https://www.segs.com.br/saude/162474-empresa-cria-solucao-que-coloca-a-realidade
 
 https://www.destakjornal.com.br/cidades/rio-de-janeiro/detalhe/nova-lei-preve-pulseira-de-identificacao-para-autistas?ref=Viajar_Ultimas | Nova lei prevê pulseira de identificação para autistas - Rio de Janeiro - Destak Jornal
 
-## New apps
-https://www.blog.google/products/earth/new-app-map-and-monitor-worlds-freshwater-supply/ | A new app to map and monitor the world’s freshwater supply
-
-https://www.correiobraziliense.com.br/app/noticia/tecnologia/2019/03/25/interna_tecnologia,745041/aplicativo-permitira-deteccao-de-diabetes-pela-camera-do-celular.shtml | Aplicativo permitirá detecção de diabetes pela câmera do celular - Tecnologia
-
-http://tiinside.com.br/tiinside/26/03/2019/uso-de-aplicativos-de-saude-deve-aumentar-nos-proximos-anos/ | Uso de aplicativos de saúde deve aumentar nos próximos anos - TI INSIDE Online | TI INSIDE Online
-
-
 ## Estudos científicos
 https://revistanews.com.br/2019/03/16/disturbios-do-sono-podem-provocar-doencas-cardiovasculares/ | Distúrbios do sono podem provocar doenças cardiovasculares – Revista News
 
@@ -49,6 +43,17 @@ http://jornaldiadia.com.br/2016/?p=549722 | 5 pontos discutidos no HIMSS 2019 qu
 
 https://www.publico.pt/2019/03/18/tecnologia/noticia/estudo-apple-watch-stanford-eua-1865847 | Estudo indica que relógios da Apple podem identificar problemas de coração | Saúde | PÚBLICO
 
+## New apps
+https://www.blog.google/products/earth/new-app-map-and-monitor-worlds-freshwater-supply/ | A new app to map and monitor the world’s freshwater supply
+
+https://www.correiobraziliense.com.br/app/noticia/tecnologia/2019/03/25/interna_tecnologia,745041/aplicativo-permitira-deteccao-de-diabetes-pela-camera-do-celular.shtml | Aplicativo permitirá detecção de diabetes pela câmera do celular - Tecnologia
+
+http://tiinside.com.br/tiinside/26/03/2019/uso-de-aplicativos-de-saude-deve-aumentar-nos-proximos-anos/ | Uso de aplicativos de saúde deve aumentar nos próximos anos - TI INSIDE Online | TI INSIDE Online
+
+## Hardwares
+https://www.tecmundo.com.br/ciencia/139887-assento-sanitario-tem-tecnologia-detecta-paradas-cardiacas.htm | Esse assento sanitário tem uma tecnologia que detecta paradas cardíacas - TecMundo
+
+http://www.paraiba.com.br/2019/03/29/09107-hu-de-campina-grande-coloca-em-funcionamento-mamografo---digital-orcado-em-r-12-milhao | HU de Campina Grande coloca em funcionamento mamógrafo digital orçado em R$ 1,2 milhão |PARAÍBA.com.br
 
 ## Para ler com calma
 http://www.amanha.com.br/posts/view/7254/transparencia-para-decisoes-dificeis-na-area-da-saude | Revista Amanhã: Transparência para decisões difíceis na área da saúde
@@ -63,6 +68,8 @@ http://www.newsfarma.pt/noticias/7750-in4med-tecnologia-como-aliada-%C3%A0-medic
 
 
 ## Perspectivas
+
+https://ecommercenews.com.br/noticias/eventos-noticias-2/telavita-leva-novas-perspectivas-da-saude-mental-e-do-consultorio-virtual-no-global-summit-telemedicine-digital-health/ | TelaVita leva novas perspectivas da saúde mental e do consultório virtual no Global Summit Telemedicine & Digital Health - E-Commerce News
 
 http://circuitomt.com.br/editorias/saude/139413-especialista-de-mt-afirma-que-tecnologia-e-grande-aliada-na-prevencao-do-cancer-de-intestino.html | Especialista de MT afirma que tecnologia é grande aliada na prevenção do câncer de intestino
 
